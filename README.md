@@ -2,6 +2,8 @@
 
 A Python GUI application to remove backgrounds from images, with an optional image upscaling feature. Built with Tkinter, `rembg`, and `Pillow`.
 
+![App Snapshot](https://backend.codingmstr.com/img/snapshot/11747347810.png)
+
 ---
 
 ## Features
